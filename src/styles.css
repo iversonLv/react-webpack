@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: green
+}
+
+.app {
+  height: 100px;
+  background: url('./images/ag-grid-logo.png') no-repeat 0 0;
+}
